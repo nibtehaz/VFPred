@@ -2,7 +2,7 @@
 
 ## Implementation
 
-The entire pipeline is implemented in Python3.
+The entire alogrithm is implemented in Python3.
 
 The functions are organized in the following files:
 
@@ -12,6 +12,9 @@ The functions are organized in the following files:
 4) signal_processing.py : All the signal processing tasks
 5) machine_learning.py :  All the machine learning tasks, including Random Forest, SMOTE , SVM
 
+## Pipeline
+
+The complete flow VFPred is presented in the Jupyter Notebook [VFPred.ipynb](https://github.com/nibtehaz/VFPred/blob/master/codes/VFPred.ipynb)
 
 ## Requirements
 
