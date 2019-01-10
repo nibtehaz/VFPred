@@ -19,3 +19,12 @@ Ventricular Fibrillation (VF), one of the most dangerous arrhythmias, is respons
 ## Citation
 
 If you use VFPred in your work, please cite the following paper
+>@article{ibtehaz2019vfpred,<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;title={VFPred: A fusion of signal processing and machine learning techniques in detecting ventricular fibrillation from ECG signals},<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;author={Ibtehaz, Nabil and Rahman, M Saifur and Rahman, M Sohel},<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;journal={Biomedical Signal Processing and Control},<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;volume={49},<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;pages={349--359},<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;year={2019},<br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;publisher={Elsevier}<br>
+>}<br>
